@@ -7,7 +7,7 @@ export default function Home() {
       <Title>Soviet</Title>
       <h1>Welcome</h1>
       <p>
-        Welcome to Soviet's official website@
+        Welcome to Soviet's official website!
       </p>
     </main>
   );
